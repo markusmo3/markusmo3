@@ -16,9 +16,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logoColor=white&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logoColor=white&logo=css3)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logoColor=white&logo=mongodb)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logoColor=white&logo=css3)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logoColor=white&logo=mongodb)
 ![OracleDB](https://img.shields.io/badge/-OracleDB-e55844?style=flat-square&logoColor=white&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logoColor=white&logo=postgresql)
 ![--Separator](https://img.shields.io/badge/-%7C-22272e?style=flat-square)
