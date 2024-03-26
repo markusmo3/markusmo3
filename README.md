@@ -1,8 +1,9 @@
 ## Hi there! I'm Markus 👋
 
-* 💻 Senior Java Developer and Software Consultant at [comsysto](https://github.com/comsysto)
-* 🌱 I’m currently learning the intricate ways of the DevOps
+* 💻 Senior Java/Kotlin Developer and Software Consultant at [comsysto](https://github.com/comsysto)
+* 🌱 I’m currently learning all there is about agile software architecture
 * 😍 Passionate about developer experience and productivity
+* ✨ Fun fact: The first software developer was a woman
 
 ### ⚡ Technologies
 
@@ -26,10 +27,11 @@
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logoColor=white&logo=amazon-aws)](#)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logoColor=white&logo=Raspberry-Pi)](#)
 
-### 🏆 Credly
-[![PSD 1](https://images.credly.com/size/80x80/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png)](https://www.credly.com/badges/f8b34e84-5315-4aba-b4d5-edd70c527afd/public_url)
-
+### 🏆 Badges
+[<img src="https://github.com/markusmo3/markusmo3/assets/3317416/c3aedd60-fa3e-4955-b1ca-5e1552b42ff6" width="100" alt="Professional Scrum Developer I">](https://www.credly.com/badges/f8b34e84-5315-4aba-b4d5-edd70c527afd/public_url)
+[<img src="https://github.com/markusmo3/markusmo3/assets/3317416/2d009546-110f-4614-8a5a-36043a15bd68" width="100" alt="ISAQB Certified Professional for Software Architecture - Foundation Level">](https://app.skillsclub.com/credential/37686-331a2d82d3ba24355aaea2e077c891c095498410ca13edeecb753bdb2775d768?locale=en&badge=true)
 <hr>
+
 <details>
 <summary>📊 My GitHub Stats</summary>
 
