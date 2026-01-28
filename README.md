@@ -1,9 +1,8 @@
 ## Hi there! I'm Markus 👋
 
 * 💻 Senior Java/Kotlin Developer and Software Consultant at [comsysto](https://github.com/comsysto)
-* 🌱 I’m currently learning all there is about agile software architecture
+* 🤖 I’m currently learning all there is about AI
 * 😍 Passionate about developer experience and productivity
-* ✨ Fun fact: The first software developer was a woman
 
 ### ⚡ Technologies
 
