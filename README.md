@@ -6,6 +6,7 @@
 
 ## Stuff i built recently
 * 🎨 Yet Another Icon Generator - https://markusmo3.github.io/icon-generator/
+* 🔠 IntelliJ Plugin for Mnemonic based actions - https://github.com/markusmo3/better-mnemonics
 * 🔒 Obsidian Plugin Private Mode - https://github.com/markusmo3/obsidian-private-mode
 * 🖊️ Sovol SV06 Pen Plotter Setup and Scripts - https://github.com/markusmo3/plotter
 
