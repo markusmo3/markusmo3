@@ -40,18 +40,8 @@
 
 ### Badges
 [<img src="https://github.com/markusmo3/markusmo3/assets/3317416/c3aedd60-fa3e-4955-b1ca-5e1552b42ff6" width="100" alt="Professional Scrum Developer I">](https://www.credly.com/badges/f8b34e84-5315-4aba-b4d5-edd70c527afd/public_url)
+[<img src="https://github.com/user-attachments/assets/7adbccc2-f137-4909-ad8a-e3df33ea2cc2" width="100" alt="Professional Scrum Product Owner I">](https://www.credly.com/badges/d8177d7d-35c0-49ff-b6c6-6dc4f25f4062)
 [<img src="https://github.com/markusmo3/markusmo3/assets/3317416/2d009546-110f-4614-8a5a-36043a15bd68" width="100" alt="ISAQB Certified Professional for Software Architecture - Foundation Level">](https://app.skillsclub.com/credential/37686-331a2d82d3ba24355aaea2e077c891c095498410ca13edeecb753bdb2775d768?locale=en&badge=true)
-<hr>
-
-<details>
-<summary>📊 My GitHub Stats</summary>
-
-[![markusmo3's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=markusmo3&show_icons=true&count_private=false&theme=dark#gh-dark-mode-only)](https://github.com/markusmo3/github-readme-stats#gh-dark-mode-only)
-[![markusmo3's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=markusmo3&show_icons=true&count_private=false&theme=default#gh-light-mode-only)](https://github.com/markusmo3/github-readme-stats#gh-light-mode-only)
-
-</details>
-
-
 <!--
 **markusmo3/markusmo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
